@@ -2,7 +2,7 @@ var lexicon = {
   "adj": {
     // I'm putting these sections here to help us recognise that these are these specific terms. You may remove them if you see it necessary.
     "place of articulation": {
-      "&#154;zmasatik": ["bilabial"],
+      "žzmasatik": ["bilabial"],
       "jyslolthin": ["labiodental"],
       "tholxuhm": ["dental"],
       "selthim": ["alveolar"],
